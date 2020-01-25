@@ -134,10 +134,11 @@ See also [Rust — Production](https://www.rust-lang.org/production) organizatio
 * [rx](https://github.com/cloudhead/rx) - Vi inspired Modern Pixel Art Editor
 * [updns](https://github.com/wyhaya/updns) - DNS proxy tool
 
-### Audio
+### Audio and Music
 
 * [indiscipline/zrtstr](https://github.com/indiscipline/zrtstr) — A command line utility for checking if stereo wav files are faux-stereo (i.e. have identical channels) and converting such files to mono. [<img src="https://api.travis-ci.org/indiscipline/zrtstr.svg?branch=master">](https://travis-ci.org/indiscipline/zrtstr)
 * [Polaris](https://github.com/agersant/polaris) — A music streaming application.  [<img src="https://api.travis-ci.org/agersant/polaris.svg?branch=master">](https://travis-ci.org/agersant/polaris)
+* [Rust Music Theory](https://github.com/ozankasikci/rust-music-theory) — A music theory guide & helper. [<img src="https://api.travis-ci.com/ozankasikci/rust-music-theory.svg?branch=master">](https://travis-ci.com/ozankasikci/rust-music-theory)
 * [Spotify TUI](https://github.com/Rigellute/spotify-tui) — A Spotify client for the terminal written in Rust. [<img src="https://github.com/Rigellute/spotify-tui/workflows/Continuous%20Integration/badge.svg">](https://github.com/Rigellute/spotify-tui/actions?workflow=Continuous+Integration)
 
 ### Cryptocurrencies
